@@ -1,0 +1,36 @@
+2016-03-25 14:10:48,296 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\study\MyDynamicFEM\workspace\mydynamicfem\pom.xml
+2016-03-25 14:10:52,470 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jimmy:mydynamicfem:0.0.1-SNAPSHOT @ D:\study\MyDynamicFEM\workspace\mydynamicfem\pom.xml.
+2016-03-25 14:10:56,021 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mydynamicfem/src/main/java
+2016-03-25 14:10:56,021 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mydynamicfem/src/main/resources
+2016-03-25 14:10:56,021 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mydynamicfem/src/test/java
+2016-03-25 14:10:56,036 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jimmy:mydynamicfem:0.0.1-SNAPSHOT @ D:\study\MyDynamicFEM\workspace\mydynamicfem\pom.xml.
+2016-03-25 14:11:08,503 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 20 sec
+2016-03-25 14:11:10,718 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jimmy:mydynamicfem:0.0.1-SNAPSHOT @ D:\study\MyDynamicFEM\workspace\mydynamicfem\pom.xml.
+2016-03-25 14:11:10,810 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:11:10,810 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-03-25 14:11:10,810 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:11:10,810 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\study\MyDynamicFEM\workspace\mydynamicfem\src\test\resources
+2016-03-25 14:11:15,642 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:11:15,644 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-03-25 14:11:15,646 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:11:15,646 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\study\MyDynamicFEM\workspace\mydynamicfem\src\test\resources
+2016-03-25 14:12:09,247 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jimmy:mydynamicfem:0.0.1-SNAPSHOT @ D:\study\MyDynamicFEM\workspace\mydynamicfem\pom.xml.
+2016-03-25 14:12:09,338 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:12:09,339 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-03-25 14:12:09,340 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:12:09,340 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\study\MyDynamicFEM\workspace\mydynamicfem\src\test\resources
+2016-03-25 14:12:53,958 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-03-25 14:13:04,736 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\study\MyDynamicFEM\workspace\mydynamicfem
+2016-03-25 14:13:04,736 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests clean install
+2016-03-25 14:13:05,658 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jimmy:mydynamicfem:0.0.1-SNAPSHOT @ D:\study\MyDynamicFEM\workspace\mydynamicfem\pom.xml.
+2016-03-25 14:13:06,362 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:13:06,363 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-03-25 14:13:06,365 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:13:06,365 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\study\MyDynamicFEM\workspace\mydynamicfem\src\test\resources
+2016-03-25 14:13:06,366 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mydynamicfem
+2016-03-25 14:13:06,367 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mydynamicfem
+2016-03-25 14:13:06,376 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:13:07,550 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:13:07,550 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-03-25 14:13:07,552 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-25 14:13:07,552 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\study\MyDynamicFEM\workspace\mydynamicfem\src\test\resources
